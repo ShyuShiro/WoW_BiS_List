@@ -1,9 +1,14 @@
 # WoW_BiS_List
 
 Note: page-data.json files were manually downloaded from wowtbc.gg as the python-Requests calls were reading as html/text instead of application/json.
-**If you wish to run this script, you'll need to manually download those .json files yourself!**
 
 For legal reasons, I've put a git.ignore on the "wowtbc/" folder referrenced in my code because I am utilizing data that is not my own (wowtbc's). Although it is public, and therefore I assume it is safe to utilize/consume, I'm still a new programmer and I'd rather play it safe!
+
+# How to run this code
+1. Download the `.json` files listed in the jupyter notebook. (The "page-data.json" paths ... all 28 of them)
+2. Create a folder in the directory called "wowtbc/"
+3. Put all the `.json` files in that directory
+4. Run the code
 
 # Project Goal
 Raiding is stressful enough, but loot just dropped and people are fighting/arguing what is BiS (Best in Slot) for them vs someone else -- That makes things REAL stressful!
