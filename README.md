@@ -4,7 +4,14 @@ Note: page-data.json files were manually downloaded from wowtbc.gg as the python
 
 For legal reasons, I've put a git.ignore on the "wowtbc/" folder referrenced in my code because I am utilizing data that is not my own (wowtbc's). Although it is public, and therefore I assume it is safe to utilize/consume, I'm still a new programmer and I'd rather play it safe!
 
-# How to run this code
+# End Product
+Here is a link to the Google Sheet that utilizes this information.
+https://docs.google.com/spreadsheets/d/1ZjWX_-KJm6ZfKfuPKd6chVC5VAT5tOXU/edit?usp=sharing&ouid=112995550126120484773&rtpof=true&sd=true
+1. Change any highlighted cell
+2. Top table will automatically show you your BiS gear
+3. Bottom table will provide detail about said item for each slot
+
+# How to run this code (If you wish to have the `.csv` files to play with on your own ... otherwise you're welcome to just use the googlesheet I have)
 1. Download the `.json` files listed in the jupyter notebook. (The "page-data.json" paths ... all 28 of them)
 2. Create a folder in the directory called "wowtbc/"
 3. Put all the `.json` files in that directory
@@ -27,7 +34,7 @@ What this code will do:
 > b) Dictionary indicating the class/spec ranking for a given item (reverse of A)
 4. Write these dictionaries to .csv
 5. (Not shown here, done separately outside of python) Create an amazing Google Sheet utilizing this information to allow Raid Leaders + Loot Masters to make educated decisions when it comes to distribution of loot based on their guild's loot rules (Ex: MS > OS, No Loot over Loot)
----- If my guild is okay with random viewers, I may be able to provide a "view only" link to said Google Sheet, but I will need their permission first.
+---- ~~If my guild is okay with random viewers, I may be able to provide a "view only" link to said Google Sheet, but I will need their permission first.~~
 
 # Outputs (**Not provided** - Run the code on your own to generate these!)
 1. `wowtbc_list.csv` = List of all current phase ("T4") items and their class/spec/slot/ranking/source.
