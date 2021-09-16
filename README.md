@@ -6,7 +6,9 @@ For legal reasons, I've put a git.ignore on the "wowtbc/" folder referrenced in 
 
 # End Product
 Here is a link to the Google Sheet that utilizes this information.
-https://docs.google.com/spreadsheets/d/1ZjWX_-KJm6ZfKfuPKd6chVC5VAT5tOXU/edit?usp=sharing&ouid=112995550126120484773&rtpof=true&sd=true
+T4: https://docs.google.com/spreadsheets/d/1ZjWX_-KJm6ZfKfuPKd6chVC5VAT5tOXU/edit?usp=sharing&ouid=112995550126120484773&rtpof=true&sd=true
+T5: https://docs.google.com/spreadsheets/d/1wqXEl6EAv2X2CKOY_wn0jRWbuwWdoszAmlenpO-N2WQ/edit?usp=sharing
+T6: (not yet populated -- Will do it when the phase nears closer)
 1. Change any highlighted cell
 2. Top table will automatically show you your BiS gear
 3. Bottom table will provide detail about said item for each slot
