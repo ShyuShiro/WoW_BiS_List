@@ -5,7 +5,7 @@ Note: page-data.json files were manually downloaded from wowtbc.gg as the python
 For legal reasons, I've put a git.ignore on the "wowtbc/" folder referrenced in my code because I am utilizing data that is not my own (wowtbc's). Although it is public, and therefore I assume it is safe to utilize/consume, I'm still a new programmer and I'd rather play it safe!
 
 # End Product
-Here is a link to the Google Sheet that utilizes this information.
+Here is a link to the Google Sheet that utilizes this information. <br> 
 T4: https://docs.google.com/spreadsheets/d/1ZjWX_-KJm6ZfKfuPKd6chVC5VAT5tOXU/edit?usp=sharing&ouid=112995550126120484773&rtpof=true&sd=true <br>
 T5: https://docs.google.com/spreadsheets/d/1wqXEl6EAv2X2CKOY_wn0jRWbuwWdoszAmlenpO-N2WQ/edit?usp=sharing <br>
 T6: (not yet populated -- Will do it when the phase nears closer) <br>
